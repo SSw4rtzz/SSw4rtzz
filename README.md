@@ -25,6 +25,8 @@
   <div> 
   <img src="https://img.shields.io/badge/MacOs-000000?style=for-the-badge&logo=apple&logoColor=white" target="_blank">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">
+  
   </div>
 
 
