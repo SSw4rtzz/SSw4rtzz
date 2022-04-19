@@ -24,16 +24,16 @@
 
   <div> 
   <img src="https://img.shields.io/badge/MacOs-000000?style=for-the-badge&logo=apple&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank">
-  
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" target="_blank">  
   </div>
 
 
   ##
 
   <div> 
- 	<a href="https://steamcommunity.com/id/libas/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+ 	<a href="https://steamcommunity.com/id/libas/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href="https://dev.to/sw4rtz" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://hashnode.com/@Sw4rtz" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
  </div>
 
   <a href="https://steamcommunity.com/id/libas/" target="_blank"><img src="https://steam.mmosvc.com/76561198202126327/v1.png" alt="76561198202126327" /></a>
