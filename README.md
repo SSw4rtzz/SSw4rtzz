@@ -35,9 +35,10 @@
   <a href="https://dev.to/sw4rtz" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
   <a href="https://hashnode.com/@Sw4rtz" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
  </div>
-
-  <a href="https://steamcommunity.com/id/libas/" target="_blank"><img src="https://steam.mmosvc.com/76561198202126327/v1.png" alt="76561198202126327" /></a>
-  [![Discord Presence](https://lanyard.cnrad.dev/api/176033476770791424?hideDiscrim=true&&idleMessage=Tudo%20vale%20a%20pena%20se%20a%20alma%20não%20é%20pequena)](https://discord.com/users/176033476770791424)
+ <div>
+  <a href="https://steamcommunity.com/id/libas/" target="_blank"><img src="https://steam.mmosvc.com/76561198202126327/v1.png" alt="76561198202126327" /></a></div>
   
+  [![Discord Presence](https://lanyard.cnrad.dev/api/176033476770791424?hideDiscrim=true&&idleMessage=Tudo%20vale%20a%20pena%20se%20a%20alma%20não%20é%20pequena)](https://discord.com/users/176033476770791424)
+ 
   - 🔭 Vou fazendo projetos por diversão (Está quase tudo privado)
 - 🌱 Estudante de Engenharia Informática
