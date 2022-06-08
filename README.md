@@ -14,7 +14,10 @@
     <img align="center" alt="Sw4rtz-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="Sw4rtz-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Sw4rtz-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://imgur.com/Yz4lf55.png">
   <img align="right" alt="SSw4rtz" height="150" style="border-radius:50px;" src="https://imgur.com/xpAVcaG.gif">
+  </picture>
 
 
 
