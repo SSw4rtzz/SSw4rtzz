@@ -37,7 +37,7 @@
  </div>
 
   <a href="https://steamcommunity.com/id/libas/" target="_blank"><img src="https://steam.mmosvc.com/76561198202126327/v1.png" alt="76561198202126327" /></a>
-  [![Discord Presence]([https://lanyard.cnrad.dev/api/176033476770791424](https://lanyard.cnrad.dev/api/176033476770791424?hideDiscrim=true&&idleMessage=Tudo%20vale%20a%20pena%20se%20a%20alma%20n%C3%A3o%20%C3%A9%20pequena))](https://discord.com/users/176033476770791424)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/176033476770791424?hideDiscrim=true&&idleMessage=Tudo%20vale%20a%20pena%20se%20a%20alma%20não%20é%20pequena)](https://discord.com/users/176033476770791424)
   
   - 🔭 Vou fazendo projetos por diversão (Está quase tudo privado)
 - 🌱 Estudante de Engenharia Informática
