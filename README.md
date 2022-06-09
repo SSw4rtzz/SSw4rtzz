@@ -41,19 +41,26 @@
   <a href="https://dev.to/sw4rtz" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
   <a href="https://hashnode.com/@Sw4rtz" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
  </div>
- 
+ <br>
 
 - 🔭 Vou fazendo projetos por diversão (Está quase tudo privado)  
 - 🌱 Estudante de Engenharia Informática
 
+ <br>
+ <br>
+
  
 <!-- Steam API e Discord -->
- <div align="right">
- 
-   [![Discord Presence](https://lanyard.cnrad.dev/api/176033476770791424?hideDiscrim=true&&idleMessage=Tudo%20vale%20a%20pena%20se%20a%20alma%20não%20é%20pequena)](https://discord.com/users/176033476770791424)
-   
-  <a href="https://steamcommunity.com/id/libas/" target="_blank"><img src="https://steam.mmosvc.com/76561198202126327/v1.png" alt="76561198202126327" /></a>
-  
-  </div>
- 
 
+<p align="center">
+<a href="https://discord.com/users/176033476770791424" target="_blank"><img align="center" src="https://lanyard.cnrad.dev/api/176033476770791424?hideDiscrim=true&&idleMessage=Tudo%20vale%20a%20pena%20se%20a%20alma%20não%20é%20pequena" /></a>
+</p>
+  <p align="center">
+<a href="https://steamcommunity.com/id/libas/" target="_blank"><img width=30%" align="center" src="https://steam.mmosvc.com/76561198202126327/v1.png" alt="76561198202126327" /></a>
+</p>
+
+ 
+<!-- Discord cena --
+   [![Discord Presence](https://lanyard.cnrad.dev/api/176033476770791424?hideDiscrim=true&&idleMessage=Tudo%20vale%20a%20pena%20se%20a%20alma%20não%20é%20pequena)](https://discord.com/users/176033476770791424)
+     
+-->
