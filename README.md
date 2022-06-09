@@ -53,10 +53,10 @@
 <!-- Steam API e Discord -->
 
 <p align="center">
-<a href="https://discord.com/users/176033476770791424" target="_blank"><img align="center" src="https://lanyard.cnrad.dev/api/176033476770791424?hideDiscrim=true&&idleMessage=Tudo%20vale%20a%20pena%20se%20a%20alma%20não%20é%20pequena" /></a>
+<a href="https://discord.com/users/176033476770791424" target="_blank"><img src="https://lanyard.cnrad.dev/api/176033476770791424?hideDiscrim=true&&idleMessage=Tudo%20vale%20a%20pena%20se%20a%20alma%20não%20é%20pequena" /></a>
 </p>
   <p align="center">
-<a href="https://steamcommunity.com/id/libas/" target="_blank"><img width=30%" align="center" src="https://steam.mmosvc.com/76561198202126327/v1.png" alt="76561198202126327" /></a>
+<a href="https://steamcommunity.com/id/libas/" target="_blank"><img width=30%" src="https://steam.mmosvc.com/76561198202126327/v1.png" alt="76561198202126327" /></a>
 </p>
 
  
