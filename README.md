@@ -60,8 +60,6 @@
 <a href="https://steamcommunity.com/id/libas/" target="_blank"><img width=30%" src="https://steam.mmosvc.com/76561198202126327/v1.png" alt="76561198202126327" /></a>
 </p>
   
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/609Y054Vk8uFwcJ5Tvpuo3?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
  
 <!-- Discord cena --
    [![Discord Presence](https://lanyard.cnrad.dev/api/176033476770791424?hideDiscrim=true&&idleMessage=Tudo%20vale%20a%20pena%20se%20a%20alma%20não%20é%20pequena)](https://discord.com/users/176033476770791424)
