@@ -44,8 +44,9 @@
  </div>
  <br>
 
-- 🔭 Vou fazendo projetos por diversão (Está quase tudo privado)  
-- 🌱 Estudante de Engenharia Informática
+- 🔭 Vou fazendo projetos por diversão (Muitos estão privados)  
+- 🌱 Tenho atualmente uma Licenciatura em Engenharia Informática
+- 💼 Atualmente à procura de emprego
 
  <br>
  <br>
